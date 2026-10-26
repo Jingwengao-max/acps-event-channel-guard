@@ -1,6 +1,6 @@
 # ACPS Event Channel Guard
 
-面向智能体互联的三维事件通信风险检测器  
+面向智能体互联的三维事件通信风险检测器
 Three-Dimensional Agent Event Communication Guard for ACPs
 
 ## 项目简介
